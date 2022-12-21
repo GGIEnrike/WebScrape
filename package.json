@@ -10,12 +10,10 @@
   },
   "repository": "https://github.com/electron/electron-quick-start-typescript",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo",
-    "typescript"
+    "scraping",
+    "webscraping",
+    "browser",
+    "Electron"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
